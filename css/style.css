@@ -1,0 +1,120 @@
+#topHeader{
+    background-color: ghostwhite;
+    border-bottom: 1px solid snow;
+    padding: 10px;
+}
+
+#topHeader a{
+    color: #34495e;
+    font-weight: 600;
+    font-size: 0.89rem;
+}
+
+nav ul li a{
+    font-size: 1.05rem;
+    font-weight: 500;
+}
+
+.container-fluid{
+    padding-left: 0;
+    padding-right: 0;
+}
+
+/* start footer */
+.full-footer{
+    background-color: #34495e;
+    
+}
+
+.top-footer p{
+    color: white;
+    font-weight: 500;
+}
+
+.top-footer a{
+    color: white;
+    font-weight: 500;
+}
+
+.top-footer h3{
+    color: white;
+}
+
+
+.bottom-footer{
+    background-color: rgb(36, 30, 63);
+}
+
+.bottom-footer p{
+    color: white;
+}
+
+
+
+
+/* end footer */
+
+
+
+/* start home page first hero section*/
+
+.top-hero-section{
+    background-color: #27ae60;
+    color: white;
+}
+
+.top-hero-section a{
+    color: white;
+    font-weight: 600;
+}
+
+
+/* start home page 3rd requirement section */
+.requirements-section{
+    color: white;
+    background-color: #004b80;
+}
+
+
+
+
+/* start of 5th newsletter */
+.home-newsletter {
+    color: white;
+    background-color: #004b80;
+}
+
+.home-newsletter .form-control{
+    height: 50px;
+    border-color: transparent;
+    border-radius: 20px 0 0 20px;
+}
+
+.home-newsletter .btn{
+    min-height: 50px;
+    border-radius: 0 20px 20px 0;
+    background: #243c4f;
+    color: #fff;
+}
+
+
+
+
+.clients-section{
+    background-color: silver;
+}
+
+/* start of about us page*/
+.breadcrumbs-section{
+    background-color: silver;
+    
+}
+
+
+/* start of contactus*/
+
+.address{
+    font-weight: 600;
+}
+
+
